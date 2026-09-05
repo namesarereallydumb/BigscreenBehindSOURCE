@@ -1,10 +1,4 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: AVProSkyboxVideoMod
-// Assembly: BigscreenBehind, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: 8CD1E9EE-0987-4B29-93F8-7443D82AE0EE
-// Assembly location: C:\Users\CASHM\Downloads\BigscreenBehind.dll
-
-using Il2CppBigscreen.Media;
+﻿using Il2CppBigscreen.Media;
 using Il2CppRenderHeads.Media.AVProVideo;
 using Il2CppSystem.Runtime.CompilerServices;
 using Il2CppSystem.Threading.Tasks;
